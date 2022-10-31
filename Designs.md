@@ -9,4 +9,6 @@ Here you can find all my past projects and my skills for visual design.
 
 - Halloween statistics
 
-![Halloween](https://user-images.githubusercontent.com/57445093/198844263-9cf3c0b5-56ac-45da-8b1c-dbeb2f27de09.jpg)
+![Halloween](https://user-images.githubusercontent.com/57445093/198972649-1c04d853-06b7-4798-9794-ff49d0da5e30.jpg)
+
+
