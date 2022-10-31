@@ -2,7 +2,7 @@
 
 Here you can find all my past projects and my skills for visual design and more.
 
-- Day in my life
+# Day in my life
 
 With the help of Illustrator I created a visual representation of my day.
 
@@ -10,14 +10,14 @@ With the help of Illustrator I created a visual representation of my day.
 ![DayInMyLife3](https://user-images.githubusercontent.com/57445093/198844243-3bcd7669-66fa-4ea7-b2fa-eba52a3922ad.jpg)
 
 
-- Halloween statistics
+# Halloween statistics
 
 With the help of Illustrator I created a data visualization of various statistics about Halloween.
 
 ![Halloween](https://user-images.githubusercontent.com/57445093/198972649-1c04d853-06b7-4798-9794-ff49d0da5e30.jpg)
 
 
-- Volvo Ad
+# Volvo Ad
 
 With the help of fotohsop I created several ads about the car Volvo.
 
@@ -33,21 +33,21 @@ https://user-images.githubusercontent.com/57445093/198990861-4edf81f9-a77c-4e7a-
 
 
 
-- Typography
+# Typography
 
 I created a short animation with the help of After effects.
 
 https://user-images.githubusercontent.com/57445093/198989607-6ecf01e3-f858-49d5-856d-33baa017fb74.mp4
 
 
-- Cats
+# Cats
 
 I created a short animation with the help of After effects.
 
 ![cats](https://user-images.githubusercontent.com/57445093/198989660-a6da2064-d052-44d2-bc59-6427ec909d6c.gif)
 
 
--Battleship
+# Battleship
 
 My group and I created a game called Battleship.
 I was responsible for the full design and front development of the project. 
